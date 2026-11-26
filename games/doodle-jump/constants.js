@@ -3,8 +3,8 @@ export const CANVAS_WIDTH = 400;
 export const CANVAS_HEIGHT = 600;
 export const HEART_BEAT = 33; // ~30fps
 export const LIVES = 1;
-export const INITIAL_SPEED = 1;
-export const MAX_SPEED = 3;
+export const INITIAL_SPEED = 2;
+export const MAX_SPEED = 4;
 export const SPEED_UP_EVERY = 5;
 
 // Player sprite: 20 cols × 25 rows
